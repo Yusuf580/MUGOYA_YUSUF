@@ -1,0 +1,66 @@
+2025-07-01 21:46:32,997 - INFO - Bot starting up.
+2025-07-01 21:46:32,997 - INFO - Authentication successful with Twitter API.
+2025-07-01 21:46:32,998 - INFO - Attempting to run daily post job.
+2025-07-01 21:46:33,808 - ERROR - Error posting tweet (TweepyException): 403 Forbidden
+Your client app is not configured with the appropriate oauth1 app permissions for this endpoint.
+2025-07-01 21:46:33,808 - INFO - Daily post job completed.
+2025-07-01 21:46:33,809 - INFO - Scheduler started successfully and waiting for tasks. Next post scheduled for 21:48.
+2025-07-01 21:48:00,825 - INFO - Attempting to run daily post job.
+2025-07-01 21:48:01,238 - ERROR - Error posting tweet (TweepyException): 403 Forbidden
+Your client app is not configured with the appropriate oauth1 app permissions for this endpoint.
+2025-07-01 21:48:01,239 - INFO - Daily post job completed.
+2025-07-01 22:03:43,075 - INFO - Bot stopped by user (KeyboardInterrupt).
+2025-07-01 22:04:23,850 - INFO - Bot starting up.
+2025-07-01 22:04:23,850 - INFO - Authentication successful with Twitter API.
+2025-07-01 22:04:23,850 - INFO - Attempting to run daily post job.
+2025-07-01 22:04:31,399 - ERROR - Error posting tweet (TweepyException): 403 Forbidden
+Your client app is not configured with the appropriate oauth1 app permissions for this endpoint.
+2025-07-01 22:04:31,400 - INFO - Daily post job completed.
+2025-07-01 22:04:31,401 - INFO - Scheduler started successfully and waiting for tasks. Next post scheduled for 22:06.
+2025-07-01 22:06:00,420 - INFO - Attempting to run daily post job.
+2025-07-01 22:06:01,962 - ERROR - Error posting tweet (TweepyException): 403 Forbidden
+Your client app is not configured with the appropriate oauth1 app permissions for this endpoint.
+2025-07-01 22:06:01,962 - INFO - Daily post job completed.
+2025-07-01 22:33:33,535 - INFO - Bot stopped by user (KeyboardInterrupt).
+2025-07-01 22:33:37,104 - INFO - Bot starting up.
+2025-07-01 22:33:37,105 - INFO - Authentication successful with Twitter API.
+2025-07-01 22:33:37,105 - INFO - Attempting to run daily post job.
+2025-07-01 22:33:37,601 - ERROR - Error posting tweet (TweepyException): 403 Forbidden
+Your client app is not configured with the appropriate oauth1 app permissions for this endpoint.
+2025-07-01 22:33:37,602 - INFO - Daily post job completed.
+2025-07-01 22:33:37,602 - INFO - Scheduler started successfully and waiting for tasks. Next post scheduled for 22:35.
+2025-07-01 22:35:00,620 - INFO - Attempting to run daily post job.
+2025-07-01 22:35:01,759 - ERROR - Error posting tweet (TweepyException): 403 Forbidden
+Your client app is not configured with the appropriate oauth1 app permissions for this endpoint.
+2025-07-01 22:35:01,760 - INFO - Daily post job completed.
+2025-07-01 22:41:26,383 - INFO - Bot stopped by user (KeyboardInterrupt).
+2025-07-01 22:41:29,686 - INFO - Bot starting up.
+2025-07-01 22:41:29,686 - INFO - Authentication successful with Twitter API.
+2025-07-01 22:41:29,686 - INFO - Attempting to run daily post job.
+2025-07-01 22:41:30,363 - ERROR - Error posting tweet (TweepyException): 403 Forbidden
+Your client app is not configured with the appropriate oauth1 app permissions for this endpoint.
+2025-07-01 22:41:30,364 - INFO - Daily post job completed.
+2025-07-01 22:41:30,364 - INFO - Scheduler started successfully and waiting for tasks. Next post scheduled for 22:43.
+2025-07-01 22:43:00,381 - INFO - Attempting to run daily post job.
+2025-07-01 22:43:00,781 - ERROR - Error posting tweet (TweepyException): 403 Forbidden
+Your client app is not configured with the appropriate oauth1 app permissions for this endpoint.
+2025-07-01 22:43:00,782 - INFO - Daily post job completed.
+2025-07-01 22:50:31,405 - INFO - Bot stopped by user (KeyboardInterrupt).
+2025-07-01 22:50:34,944 - INFO - Bot starting up.
+2025-07-01 22:50:34,944 - INFO - Authentication successful with Twitter API.
+2025-07-01 22:50:34,944 - INFO - Attempting to run daily post job.
+2025-07-01 22:50:35,796 - INFO - Tweet posted successfully! ID: 1940135968566124989, Text: 'It's Tuesday in the Pearl of Africa! Working on my AI agent to automate social media posts. Progress is key! 💡 #Python #Automation'
+2025-07-01 22:50:35,797 - INFO - Daily post job completed.
+2025-07-01 22:50:35,798 - INFO - Scheduler started successfully and waiting for tasks. Next post scheduled for 22:52.
+2025-07-01 22:52:00,816 - INFO - Attempting to run daily post job.
+2025-07-01 22:52:01,439 - ERROR - Error posting tweet (TweepyException): 403 Forbidden
+You are not allowed to create a Tweet with duplicate content.
+2025-07-01 22:52:01,439 - INFO - Daily post job completed.
+2025-07-01 22:57:50,446 - INFO - Bot stopped by user (KeyboardInterrupt).
+2025-07-02 08:36:55,234 - INFO - Bot starting up.
+2025-07-02 08:36:55,248 - INFO - Authentication successful with Twitter API.
+2025-07-02 08:36:55,248 - INFO - Attempting to run daily post job.
+2025-07-02 08:37:00,830 - INFO - Tweet posted successfully! ID: 1940283545504657677, Text: 'Happy Hump Day from Uganda! Halfway through the week, and my bot is still tweeting. What's your favorite part of coding? 💻 #WednesdayWisdom'
+2025-07-02 08:37:00,830 - INFO - Daily post job completed.
+2025-07-02 08:37:00,830 - INFO - Scheduler started successfully and waiting for tasks. Next post scheduled for 08:39.
+2025-07-02 08:37:07,175 - INFO - Bot stopped by user (KeyboardInterrupt).
